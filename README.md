@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamalokkhatua3x
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-
-Instagram https://www.instagram.com/__alok.3x/
+- Startet My Frist Programing language . C++
 
